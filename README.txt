@@ -55,5 +55,6 @@ INSTRUCCIONES DE USO
 2. Abrir la carpeta del proyecto.
 3. Hacer doble clic en index.html.
 4. Navegar por las diferentes páginas del sitio.
-5. Para cargar Bootstrap desde CDN, se necesita
-   conexión a internet.
+5. Para cargar Bootstrap desde CDN, se necesita conexión a internet.
+
+https://yesy17795.github.io/Restaurante-Encanto-Isle-o-/
