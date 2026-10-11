@@ -57,4 +57,6 @@ INSTRUCCIONES DE USO
 4. Navegar por las diferentes páginas del sitio.
 5. Para cargar Bootstrap desde CDN, se necesita conexión a internet.
 
-https://yesy17795.github.io/Restaurante-Encanto-Isle-o-/
+ENLACE DEL SITIO WEB
+
+GitHub Pages:https://yesy17795.github.io/Restaurante-Encanto-Isle-o-
